@@ -1,6 +1,9 @@
 # PopEye
-An autonomous balloon popping robotic arm
-Winner of a competition at IITG
+## An autonomous balloon popping robotic arm
+
+Part and winner of an inter-hostel competition held at IITG
+
+---
 
 See `problem_statement.pdf` for the problem statement
 
